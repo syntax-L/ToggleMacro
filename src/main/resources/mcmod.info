@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "togglemacro",
+    "name": "ToggleMacro",
+    "description": "Adds a toggle for attacking and using items.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "github.com/syntax-L",
+    "updateUrl": "",
+    "authorList": ["syntaxl"],
+    "credits": "i love farming (i dont)",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
